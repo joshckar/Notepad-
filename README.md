@@ -26,3 +26,5 @@ Notepad+ stands out among other applications for the following reasons:
 - User-friendly: The application is designed to be lovely and intuitive, allowing you to express yourself effortlessly.
 
 Thank you from the team ♥️
+
+programmer MohammadHossin Ahmadi
